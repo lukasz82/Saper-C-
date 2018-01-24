@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1498764125 source:d:\programowanie\saper_blocks\saper2\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<conio.h>
+	<string.h>
+
