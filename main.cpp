@@ -21,7 +21,7 @@ using namespace std;
 
 
 
-		void Mapa (int); // <-- A --> PROJEKT DOMU :)  int - jest parametrem mapy, będzie to jej rozmiar przy jej tworzeniu (tak zwanego obiektu klasy)
+		void Mapa (int); 
 		void WyswietlMape();
 		void WylosujBomby();
 		void WyswietlMapeGracza();
